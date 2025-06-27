@@ -17,6 +17,7 @@ header {
     font-style: normal;
     border-bottom: solid 2px;
     padding: 20px;
+    box-shadow: 0 0 70px rgb(255, 255, 255);
 }
 
 header {
