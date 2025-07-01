@@ -26,12 +26,12 @@ h1 {
     font-style: normal;
 }
 
-.chamada{
+.chamada {
     display: flex;
     justify-content: center;
     background-color: aliceblue;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-left: 20%;
 }
